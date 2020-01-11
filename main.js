@@ -17,12 +17,8 @@ function handleSliderChange() {
 }
 
 function transformHoverBox(e) {
-  // console.log(e.target);
   const { pageX, pageY } = e;
   const { x, y, width, height } = e.target.getBoundingClientRect();
-  // console.log({ rect });
-  // const { offsetLeft, offsetTop, offsetHeight, offsetWidth } = e.target;
-  // console.log({ pageY, offsetTop, offsetHeight });
   const midX = x + width / 2;
   const midY = y + height / 2;
   const percentX = (pageX - midX) / (0.5 * width);
