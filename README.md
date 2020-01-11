@@ -4,7 +4,7 @@ A UI experiment using CSS and Vanilla JS.
 
 ## The Inspiration
 
-I was inspired by the hover effect on AppleTV. As the user moves their finger over the remote trackpad, the active element responds to the perceived location of your finger within it. I wanted to recreate this effect using CSS (3D rotation and perspective) and JavaScript. Here is the result:
+I was inspired by the hover effect on AppleTV. As the user moves their finger over the remote trackpad, the active element responds to the perceived location of their finger within it. I wanted to recreate this effect using CSS (3D rotation and perspective) and JavaScript. Here is the result:
 
 <img src="https://res.cloudinary.com/brian-ogilvie/image/upload/v1578706309/Random%20GitHub/hover_rotate.gif" alt="hover effect demo" />
 
